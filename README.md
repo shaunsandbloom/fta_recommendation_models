@@ -1,4 +1,6 @@
 # FTA TrAMS Recommendation System
+> [!IMPORTANT]
+This repository is purely for demonstration purposes and does not necessarily reflect any official policy or position of the Federal Transit Administration.
 
 ## Background
 
@@ -24,7 +26,3 @@ In the sample set, each observation represents a single **grant award**. Below i
 | `ali_code` | **Activity Line Item Code:** A unique identifier for each ALI in the FTA database | `30.09.01` |
 | `ali_name` | **Activity Line Item Name:** A description of the ALI attached to the grant award | `Up to 50% FEDERAL SHARE` |
 | `project_name` | **Project Name:** A description of the project grant funding would go toward | `2018 Formula Small Urban Funds (Capital, Operating and State Admin)` |
-
-
-> [!IMPORTANT]
-> This repository is purely for demonstration purposes and does not necessarily reflect the official policy or position of the Federal Transit Administration.
